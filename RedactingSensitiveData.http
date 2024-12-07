@@ -1,0 +1,6 @@
+@AnhTran.RedactingSensitiveData_HostAddress = http://localhost:5167
+
+GET {{AnhTran.RedactingSensitiveData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
